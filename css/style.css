@@ -46,7 +46,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("../img/img.jpg");
+  background-image: url("./img/img.jpg");
   /* background: #E2BB39; */
   overflow: hidden;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
@@ -210,7 +210,7 @@ z-index: -99; */
 #cloud-1_1 {
   content: "";
   height: 259px;
-  background-image: url("../img/clouds/cloud0.png");
+  background-image: url("img/clouds/cloud0.png");
   background-repeat: repeat-x;
   position: absolute;
   bottom: 0px;
@@ -246,11 +246,11 @@ z-index: -99; */
   left: 0;
   right: 0;
   background-repeat: repeat-x;
-  background-image: url("../img/clouds/cloud-grad.png");
+  background-image: url("img/clouds/cloud-grad.png");
 }
 
 #cloud-2 {
-  background-image: url("../img/clouds/cloud1.png");
+  background-image: url("img/clouds/cloud1.png");
   width: 616px;
   height: 283px;
   opacity: .3;
@@ -342,7 +342,7 @@ z-index: -99; */
 }
 
 #cloud-3 {
-  background-image: url("../img/clouds/cloud2.png");
+  background-image: url("img/clouds/cloud2.png");
   width: 1000px;
   height: 291px;
   bottom: 0px;
@@ -430,7 +430,7 @@ z-index: -99; */
 #cloud-4 {
   width: 616px;
   height: 283px;
-  background-image: url("../img/clouds/cloud4.png");
+  background-image: url("img/clouds/cloud4.png");
   opacity: 1;
   bottom: -20px;
   right: 0px;
@@ -514,7 +514,7 @@ z-index: -99; */
 #cloud-7 {
   width: 642px;
   height: 383px;
-  background-image: url("../img/clouds/cloud3.png");
+  background-image: url("img/clouds/cloud3.png");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -606,7 +606,7 @@ z-index: -99; */
 #cloud-8 {
   width: 642px;
   height: 383px;
-  background-image: url("../img/clouds/cloud3.png");
+  background-image: url("img/clouds/cloud3.png");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
