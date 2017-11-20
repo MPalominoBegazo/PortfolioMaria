@@ -46,7 +46,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background: url("../img/img-min.JPG");
+  background: url("../img/mariaprofile.JPG");
   /* background: #E2BB39; */
   overflow: hidden;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
